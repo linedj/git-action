@@ -1,4 +1,3 @@
-.github/workflows/work-1.yml
 name: work-1
 on:
   push:
